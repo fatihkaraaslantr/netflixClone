@@ -4,7 +4,7 @@ Bu proje, Netflix platformunun görünüm ve tasarım özelliklerini temel alara
 
 <h2>Kullanılan Teknolojiler:<h2>
 
-<p>HTML ve CSS ile İnşa Edildi: Temel web teknolojileriyle geliştirilmiş, modern web tasarımı konusunda bir örnektir.</p>
+Bu proje, sayfa yapısını HTML ile, görsel tasarımı ise CSS ile oluşturulmuştur. İki teknoloji, şık ve duyarlı bir tasarım sunmak için birlikte kullanılmıştır.
 
 <h2>Özellikler:</h2>
 
