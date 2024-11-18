@@ -15,3 +15,7 @@ Duyarlı Tasarım (Responsive Design): Mobil, tablet ve masaüstü cihazlarda uy
 <h6>İçerik Sunumu:<h6>
 
 İçerik Sunumu: Şık bir tasarımla, Netflix'in kullanıcı arayüzüne benzer şekilde film ve dizi içerikleri düzenli ve estetik bir biçimde sunulur.
+
+<h1>Ekran Görüntüsü:</h1>
+
+![](./media/project.gif)
