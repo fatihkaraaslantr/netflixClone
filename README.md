@@ -2,9 +2,9 @@
 
 Bu proje, Netflix platformunun görünüm ve tasarım özelliklerini temel alarak oluşturulmuş bir web arayüzüdür. Netflix'in kullanıcı dostu arayüzünü ve film-dizi içeriklerini şık bir şekilde sergileyen bir yapı sunar.Proje, Netflix'in popüler tasarım ve görsel çekiciliğini yansıtan bir deneyim sunmayı hedefler.
 
-<h2>Kullanılan Teknolojiler:<h2>
+<h2>Kullanılan Teknolojiler:</h2>
 
-Bu proje, sayfa yapısını HTML ile, görsel tasarımı ise CSS ile oluşturulmuştur. İki teknoloji, şık ve duyarlı bir tasarım sunmak için birlikte kullanılmıştır.
+HTML ve CSS ile İnşa Edildi: Temel web teknolojilerini kullanarak eğitim amaçlı geliştirilen bu tasarım, becerilerimi geliştirme sürecimde oluşturduğum pratik bir örnektir.
 
 <h2>Özellikler:</h2>
 
