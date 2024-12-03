@@ -1,12 +1,13 @@
-<h1>Netflix Clone Web Tasarımı:</h1>
+<h1>🚀Netflix Clone Web Site Arayüzü</h1>
 
 Bu proje, Netflix platformunun görünüm ve tasarım özelliklerini temel alarak oluşturulmuş bir web arayüzüdür. Netflix'in kullanıcı dostu arayüzünü ve film-dizi içeriklerini şık bir şekilde sergileyen bir yapı sunar.Proje, Netflix'in popüler tasarım ve görsel çekiciliğini yansıtan bir deneyim sunmayı hedefler.
 
-<h2>Kullanılan Teknolojiler:</h2>
+<h2>🛠️Kullanılan Teknolojiler</h2>
 
-HTML ve CSS ile İnşa Edildi: Temel web teknolojilerini kullanarak eğitim amaçlı geliştirilen bu tasarım, becerilerimi geliştirme sürecimde oluşturduğum pratik bir örnektir.
+-Html
+-Css
 
-<h2>Özellikler:</h2>
+<h2>⚙️Özellikler</h2>
 
 <h6>Responsive:<h6>
 
@@ -16,6 +17,6 @@ Duyarlı Tasarım (Responsive Design): Mobil, tablet ve masaüstü cihazlarda uy
 
 İçerik Sunumu: Şık bir tasarımla, Netflix'in kullanıcı arayüzüne benzer şekilde film ve dizi içerikleri düzenli ve estetik bir biçimde sunulur.
 
-<h1>Ekran Görüntüsü:</h1>
+<h1>🎬Ekran Görüntüsü</h1>
 
 ![](./media/project.gif)
